@@ -1,0 +1,53 @@
+/* .oskbd-key {
+        color : red;
+        background-color: white;
+}
+
+.oskbd-key-switch {
+	background-color: red;
+}
+
+.oskbd-key-space {
+	background-color: yellow;
+}
+
+.oskbd-key-shift {
+	background-color: pink;
+}
+
+.oskbd-key-backspace {
+	background-color: indigo;
+	background-image: url(/icons/back.png);
+}
+
+.oskbd-key-enter {
+	background-color: green;
+}
+
+.oskbd-container {
+       background-color: blue;
+	width : 90%
+}
+
+.oskbd-keyboard {
+	width: 90%;
+}
+
+.oskbd-line {
+	margin: 10px 5px;
+	height: 60px;
+}
+
+.oskbd-close {
+	display: none;
+}
+
+.oskbd-container.layout-number {
+	width: 60%;
+	background-color: green;
+}
+
+.oskbd-key.layout-number {
+        color : blue;
+        background-color: gray;
+} */

@@ -1,0 +1,8 @@
+{
+    "name": "testReact",
+    "kind": "application",
+    "version": "2.9.3",
+    "description": "Application testReact: intégration pour debuggage client",
+    "action": "update"
+    }
+    
